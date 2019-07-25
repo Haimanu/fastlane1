@@ -173,7 +173,7 @@ Check out [CONTRIBUTING.md](CONTRIBUTING.md) for more information on how to help
 
 Help us keep _fastlane_ open and inclusive. Please read and follow our [Code of Conduct](https://github.com/fastlane/fastlane/blob/master/CODE_OF_CONDUCT.md).
 
-## Metrics
+##  Metrics
  
 _fastlane_ tracks a few key metrics to understand how developers are using the tool and to help us know what areas need improvement. No personal/sensitive information is ever collected. Metrics that are collected include: 
  
