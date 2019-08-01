@@ -1,6 +1,5 @@
 source("https://rubygems.org")
 
-gem "fastlane"
 
 gem "xcode-install", ">= 2.2.1" # needed for running xcode-install related tests
 
