@@ -1,5 +1,7 @@
 source("https://rubygems.org")
 
+gem "fastlane"
+
 gem "xcode-install", ">= 2.2.1" # needed for running xcode-install related tests
 
 gem "danger", ">= 4.2.1", "< 5.0.0"
